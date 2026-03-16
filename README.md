@@ -4,8 +4,15 @@ A simple **User Management System** built using **Node.js, Express.js, MongoDB, 
 This project demonstrates **CRUD operations (Create, Read, Update, Delete)** with server-side rendering using EJS templates.
 
 ---
+## 🚀 Features
 
-
+- Create new users
+- View all users
+- Update user details
+- Delete users
+- Server-side rendering with EJS
+- MongoDB database integration
+- RESTful routing
 
 ---
 
